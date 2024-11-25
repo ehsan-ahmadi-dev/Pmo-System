@@ -1,2 +1,2 @@
-# Pmo-System
+# Project Management
 A web application for task management using the Kanban method, task reminders, meeting scheduling, and displaying various reports
